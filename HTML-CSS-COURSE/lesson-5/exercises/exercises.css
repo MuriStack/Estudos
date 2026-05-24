@@ -121,6 +121,7 @@
 }
 #time-text{
     color: rgb(100, 100, 100);
+    margin-bottom: 50px;
 }
 #value-text{
     color: rgb(235, 39, 39);
