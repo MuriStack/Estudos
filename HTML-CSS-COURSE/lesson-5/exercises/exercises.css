@@ -100,5 +100,28 @@
     padding-right: 15px;
     border-radius: 30px;
     cursor: pointer;
-    margin-bottom: 50px;
+}
+.f5{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial;
+}
+#number-text{
+    font-size: 32px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+#dolar-text{
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+}
+#increase-text{
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+}
+#time-text{
+    color: rgb(100, 100, 100);
+}
+#value-text{
+    color: rgb(235, 39, 39);
 }
