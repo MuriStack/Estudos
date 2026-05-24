@@ -1,0 +1,82 @@
+#a7{
+    width: 200px;
+    border-radius: 15px;
+    margin-right: 25px;
+}
+#b7{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 35%;
+    margin-right: 25px;
+
+}
+#c7{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 35%;
+    margin-right: 25px;
+    border-radius: 100px;
+}
+#d7{
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 100px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rbg(200, 200, 200);
+    border-width: 1px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+#e7{
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 500px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-bottom: 50px;
+}
+.f7{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgb(100, 100, 100);
+}
+#name-f7{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+#search-bar-f7{
+    width: 390px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    border-color: rgb(100, 100, 100);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+#description-f7{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+#button-f7{
+    border: none;
+    background-color:  rgb(10, 102, 194);
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    width: 400px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+}
