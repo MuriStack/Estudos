@@ -3,3 +3,15 @@
     font-weight: bold;
     font-size: 30px;
 }
+#deals-text{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 26px;
+    margin-bottom: 8px;
+}
+#sales-text{
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    margin-top: 0;
+}
