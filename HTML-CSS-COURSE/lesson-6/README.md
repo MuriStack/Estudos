@@ -1,1 +1,0 @@
-Lesson 6 taught the basic structure of HTML.
